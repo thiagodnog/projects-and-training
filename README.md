@@ -7,3 +7,5 @@
 Exercícios e Projetos com React Native.
 1. [Exercícios de Fundamento JavaScript](https://github.com/thiagodnog/projects-and-training/tree/main/Curso%20React%20Native/Exercicios%20de%20Fundamento)
 2. [Projeto Calculadora](https://github.com/thiagodnog/projects-and-training/tree/main/Curso%20React%20Native/Projeto%20Calculadora)
+## Curso Python
+[Curso Python Coursera Pt1](https://github.com/thiagodnog/projects-and-training/tree/main/Curso%20Python%20Coursera) 
