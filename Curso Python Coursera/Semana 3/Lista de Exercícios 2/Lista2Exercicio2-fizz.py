@@ -1,0 +1,18 @@
+"""
+Curso - Introdução à Ciência da Computação com Python Parte 1
+
+Exercícios 2 - FizzBuzz parcial, parte 1
+
+Receba um número inteiro na entrada e imprima
+Fizz
+se o número for divisível por 3. Caso contrário, imprima o mesmo número que foi dado na entrada.
+
+autor: Thiago Nogueira
+"""
+
+numInt = int(input("Digite um número inteiro: "))
+
+if numInt % 3 == 0:
+    print("Fizz");
+else:
+    print(numInt);
