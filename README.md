@@ -9,3 +9,5 @@ Exercícios e Projetos com React Native.
 2. [Projeto Calculadora](https://github.com/thiagodnog/projects-and-training/tree/main/Curso%20React%20Native/Projeto%20Calculadora)
 ## Curso Python
 [Curso Python Coursera Pt1](https://github.com/thiagodnog/projects-and-training/tree/main/Curso%20Python%20Coursera) 
+## Curso Machine Learning
+[Curso Machine Learning](https://github.com/thiagodnog/projects-and-training/tree/main/Machine%20Learning) 
